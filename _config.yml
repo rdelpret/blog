@@ -8,6 +8,8 @@ url: "https://rdelpret.github.io"
 
 remote_theme: jekyll/minima
 
+google_analytics: G-CVX0MN1Y5Y
+
 minima:
   skin: dark
   social_links:
@@ -24,3 +26,5 @@ plugins:
   - jekyll-paginate
   - jekyll-spaceship
   - jekyll-remote-theme
+
+  
