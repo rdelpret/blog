@@ -3,7 +3,7 @@ email: robbie.delprete@gmail.com
 description: >-
   I use this space to blog about novel things that I think could hopefully help others if they happen to stumble in :)
 baseurl: "/blog"
-url: "https://rdelpret.github.io"
+url: "http://robbiedelprete.com"
 
 
 remote_theme: jekyll/minima
